@@ -239,7 +239,7 @@ body {
 }
 
 .menu_list_recommended {
-  /* トップページのメニューリストには別途paddingの設定（マルチクラス） */
+  /* ※トップページのメニューリストには別途paddingの設定（マルチクラス） */
   padding-bottom: 50px;
 }
 
